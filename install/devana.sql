@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `devana`
 --
---CREATE DATABASE IF NOT EXISTS `devana` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
---USE `devana`;
+-- CREATE DATABASE IF NOT EXISTS `devana` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+-- USE `devana`;
 
 -- --------------------------------------------------------
 
